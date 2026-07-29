@@ -1,4 +1,4 @@
-package com.alkisa.app
+package com.example.alkisa
 
 import android.annotation.SuppressLint
 import android.os.Bundle

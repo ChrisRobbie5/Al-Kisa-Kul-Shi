@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.alkisa.app"
+    namespace = "com.example.alkisa"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.alkisa.app"
+        applicationId = "com.example.alkisa"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
