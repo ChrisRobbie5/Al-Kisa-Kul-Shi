@@ -1,0 +1,499 @@
+[
+  {
+    "id": "dua-al-asharat",
+    "title": "Dua Al Asharat",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "dua-al-asharat.json"
+  },
+  {
+    "id": "dua-al-iftitah",
+    "title": "Dua Al Iftitah",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "dua-al-iftitah.json"
+  },
+  {
+    "id": "dua-kumayl",
+    "title": "Dua Kumayl",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "dua-kumayl.json"
+  },
+  {
+    "id": "dua-mashlool",
+    "title": "Dua Mashlool",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "dua-mashlool.json"
+  },
+  {
+    "id": "dua-nudba",
+    "title": "Dua Nudba",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "dua-nudba.json"
+  },
+  {
+    "id": "dua-sabah",
+    "title": "Dua Sabah",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "dua-sabah.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-abasing-himself-before-god",
+    "title": "Sahifa Sajjadiya Abasing Himself Before God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-abasing-himself-before-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-blessings-upon-gods-messenger",
+    "title": "Sahifa Sajjadiya Blessings Upon Gods Messenger",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-blessings-upon-gods-messenger.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-farewell-to-the-month-of-ramadan",
+    "title": "Sahifa Sajjadiya Farewell To The Month Of Ramadan",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-farewell-to-the-month-of-ramadan.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-for-his-neighbours-and-friends",
+    "title": "Sahifa Sajjadiya For His Neighbours And Friends",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-for-his-neighbours-and-friends.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-for-the-coming-of-the-month-of-ramadan",
+    "title": "Sahifa Sajjadiya For The Coming Of The Month Of Ramadan",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-for-the-coming-of-the-month-of-ramadan.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-for-good-outcomes",
+    "title": "Sahifa Sajjadiya His Supplication For Good Outcomes",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-for-good-outcomes.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-for-help-in-repaying-debts",
+    "title": "Sahifa Sajjadiya His Supplication For Help In Repaying Debts",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-for-help-in-repaying-debts.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-for-himself-and-the-people-under-his-guardianship",
+    "title": "Sahifa Sajjadiya His Supplication For Himself And The People Under His Guardianship",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-for-himself-and-the-people-under-his-guardianship.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-for-his-children",
+    "title": "Sahifa Sajjadiya His Supplication For His Children",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-for-his-children.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-for-his-parents",
+    "title": "Sahifa Sajjadiya His Supplication For His Parents",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-for-his-parents.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-for-the-people-of-the-frontiers",
+    "title": "Sahifa Sajjadiya His Supplication For The People Of The Frontiers",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-for-the-people-of-the-frontiers.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-asking-for-covering-and-protection",
+    "title": "Sahifa Sajjadiya His Supplication In Asking For Covering And Protection",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-asking-for-covering-and-protection.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-asking-for-the-best",
+    "title": "Sahifa Sajjadiya His Supplication In Asking For The Best",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-asking-for-the-best.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-asking-for-water-during-a-drought",
+    "title": "Sahifa Sajjadiya His Supplication In Asking For Water During A Drought",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-asking-for-water-during-a-drought.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-confession-and-in-seeking-repentance-toward-god",
+    "title": "Sahifa Sajjadiya His Supplication In Confession And In Seeking Repentance Toward God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-confession-and-in-seeking-repentance-toward-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-fear",
+    "title": "Sahifa Sajjadiya His Supplication In Fear",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-fear.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-fleeing-to-god-for-protection",
+    "title": "Sahifa Sajjadiya His Supplication In Fleeing To God For Protection",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-fleeing-to-god-for-protection.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-giving-thanks",
+    "title": "Sahifa Sajjadiya His Supplication In Giving Thanks",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-giving-thanks.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-hardship-effort-and-difficult-affairs",
+    "title": "Sahifa Sajjadiya His Supplication In Hardship Effort And Difficult Affairs",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-hardship-effort-and-difficult-affairs.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-imploring-god",
+    "title": "Sahifa Sajjadiya His Supplication In Imploring God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-imploring-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-seeking-needs-from-god",
+    "title": "Sahifa Sajjadiya His Supplication In Seeking Needs From God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-seeking-needs-from-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-seeking-pardon-and-mercy",
+    "title": "Sahifa Sajjadiya His Supplication In Seeking Pardon And Mercy",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-seeking-pardon-and-mercy.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-in-the-morning-and-evening",
+    "title": "Sahifa Sajjadiya His Supplication In The Morning And Evening",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-in-the-morning-and-evening.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-on-noble-moral-traits",
+    "title": "Sahifa Sajjadiya His Supplication On Noble Moral Traits",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-on-noble-moral-traits.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-on-the-day-of-arafa",
+    "title": "Sahifa Sajjadiya His Supplication On The Day Of Arafa",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-on-the-day-of-arafa.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-on-the-day-of-sacrifice-and-on-friday",
+    "title": "Sahifa Sajjadiya His Supplication On The Day Of Sacrifice And On Friday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-on-the-day-of-sacrifice-and-on-friday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-when-his-provision-was-stinted",
+    "title": "Sahifa Sajjadiya His Supplication When His Provision Was Stinted",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-when-his-provision-was-stinted.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-his-supplication-when-sick",
+    "title": "Sahifa Sajjadiya His Supplication When Sick",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-his-supplication-when-sick.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-asking-pardon",
+    "title": "Sahifa Sajjadiya In Asking Pardon",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-asking-pardon.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-asking-release-from-sins-and-seeking-pardon",
+    "title": "Sahifa Sajjadiya In Asking Release From Sins And Seeking Pardon",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-asking-release-from-sins-and-seeking-pardon.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-calling-down-blessings-on-the-bearers-of-the-throne-and-every-angel-brought-near",
+    "title": "Sahifa Sajjadiya In Calling Down Blessings On The Bearers Of The Throne And Every Angel Brought Near",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-calling-down-blessings-on-the-bearers-of-the-throne-and-every-angel-brought-near.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-calling-down-blessings-upon-the-followers-of-and-the-attesters-to-the-messengers",
+    "title": "Sahifa Sajjadiya In Calling Down Blessings Upon The Followers Of And The Attesters To The Messengers",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-calling-down-blessings-upon-the-followers-of-and-the-attesters-to-the-messengers.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-confessing-sins-after-finishing-the-night-prayer",
+    "title": "Sahifa Sajjadiya In Confessing Sins After Finishing The Night Prayer",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-confessing-sins-after-finishing-the-night-prayer.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-mentioning-and-asking-for-repentance",
+    "title": "Sahifa Sajjadiya In Mentioning And Asking For Repentance",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-mentioning-and-asking-for-repentance.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-pleading-and-abasement",
+    "title": "Sahifa Sajjadiya In Pleading And Abasement",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-pleading-and-abasement.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-praise-of-god",
+    "title": "Sahifa Sajjadiya In Praise Of God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-praise-of-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-satisfaction-when-he-looked-upon-the-companions-of-this-world",
+    "title": "Sahifa Sajjadiya In Satisfaction When He Looked Upon The Companions Of This World",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-satisfaction-when-he-looked-upon-the-companions-of-this-world.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-seeking-asylum-with-god",
+    "title": "Sahifa Sajjadiya In Seeking Asylum With God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-seeking-asylum-with-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-in-yearning-to-ask-forgiveness-from-god",
+    "title": "Sahifa Sajjadiya In Yearning To Ask Forgiveness From God",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-in-yearning-to-ask-forgiveness-from-god.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-on-the-day-of-fast-breaking-and-on-friday",
+    "title": "Sahifa Sajjadiya On The Day Of Fast Breaking And On Friday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-on-the-day-of-fast-breaking-and-on-friday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-removal-of-worries",
+    "title": "Sahifa Sajjadiya Removal Of Worries",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-removal-of-worries.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-repelling-the-trickery-of-enemies",
+    "title": "Sahifa Sajjadiya Repelling The Trickery Of Enemies",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-repelling-the-trickery-of-enemies.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-seeking-refuge-from-hateful-things",
+    "title": "Sahifa Sajjadiya Seeking Refuge From Hateful Things",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-seeking-refuge-from-hateful-things.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-friday",
+    "title": "Sahifa Sajjadiya The Supplication For Friday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-friday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-monday",
+    "title": "Sahifa Sajjadiya The Supplication For Monday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-monday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-saturday",
+    "title": "Sahifa Sajjadiya The Supplication For Saturday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-saturday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-sunday",
+    "title": "Sahifa Sajjadiya The Supplication For Sunday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-sunday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-thursday",
+    "title": "Sahifa Sajjadiya The Supplication For Thursday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-thursday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-tuesday",
+    "title": "Sahifa Sajjadiya The Supplication For Tuesday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-tuesday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-the-supplication-for-wednesday",
+    "title": "Sahifa Sajjadiya The Supplication For Wednesday",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-the-supplication-for-wednesday.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-upon-completing-a-reading-of-the-quran",
+    "title": "Sahifa Sajjadiya Upon Completing A Reading Of The Quran",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-upon-completing-a-reading-of-the-quran.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-faced-with-a-worrisome-task",
+    "title": "Sahifa Sajjadiya When Faced With A Worrisome Task",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-faced-with-a-worrisome-task.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-he-asked-god-for-well-being",
+    "title": "Sahifa Sajjadiya When He Asked God For Well Being",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-he-asked-god-for-well-being.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-he-looked-at-the-new-crescent-moon",
+    "title": "Sahifa Sajjadiya When He Looked At The New Crescent Moon",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-he-looked-at-the-new-crescent-moon.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-he-mentioned-satan-and-sought-refuge-from-him",
+    "title": "Sahifa Sajjadiya When He Mentioned Satan And Sought Refuge From Him",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-he-mentioned-satan-and-sought-refuge-from-him.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-he-remembered-death",
+    "title": "Sahifa Sajjadiya When He Remembered Death",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-he-remembered-death.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-he-saw-clouds-and-lightening-and-heard-the-thunder",
+    "title": "Sahifa Sajjadiya When He Saw Clouds And Lightening And Heard The Thunder",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-he-saw-clouds-and-lightening-and-heard-the-thunder.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-he-was-afflicted-or-saw-someone-afflicted-with-the-disgrace-of-sin",
+    "title": "Sahifa Sajjadiya When He Was Afflicted Or Saw Someone Afflicted With The Disgrace Of Sin",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-he-was-afflicted-or-saw-someone-afflicted-with-the-disgrace-of-sin.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-hostility-was-shown-to-him",
+    "title": "Sahifa Sajjadiya When Hostility Was Shown To Him",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-hostility-was-shown-to-him.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-perils-were-repelled-or-requests-quickly-granted",
+    "title": "Sahifa Sajjadiya When Perils Were Repelled Or Requests Quickly Granted",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-perils-were-repelled-or-requests-quickly-granted.json"
+  },
+  {
+    "id": "sahifa-sajjadiya-when-something-made-him-sorrowful",
+    "title": "Sahifa Sajjadiya When Something Made Him Sorrowful",
+    "description": "Supplication.",
+    "type": "dua",
+    "filename": "sahifa-sajjadiya-when-something-made-him-sorrowful.json"
+  },
+  {
+    "id": "ziyarat-ashura",
+    "title": "Ziyarat Ashura",
+    "description": "Salutation.",
+    "type": "ziyarat",
+    "filename": "ziyarat-ashura.json"
+  },
+  {
+    "id": "ziyarat-jamia-kabira",
+    "title": "Ziyarat Jamia Kabira",
+    "description": "Salutation.",
+    "type": "ziyarat",
+    "filename": "ziyarat-jamia-kabira.json"
+  },
+  {
+    "id": "ziyarat-warith",
+    "title": "Ziyarat Warith",
+    "description": "Salutation.",
+    "type": "ziyarat",
+    "filename": "ziyarat-warith.json"
+  },
+  {
+    "id": "ziyrat-aale-yasin",
+    "title": "Ziyrat Aale Yasin",
+    "description": "Salutation.",
+    "type": "ziyarat",
+    "filename": "ziyrat-aale-yasin.json"
+  }
+]

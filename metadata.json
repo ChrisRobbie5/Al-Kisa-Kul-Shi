@@ -1,0 +1,10 @@
+{
+  "name": "Remix Al Kisa",
+  "description": "Shia Islamic app featuring authenticated dua collections, historical narrations, a prayer time tracker, Qibla compass, integrated ziyarat guides, Quran with translations, and a tasbih counter.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

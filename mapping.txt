@@ -1,0 +1,71 @@
+dua-al-asharat	Dua Al Asharat
+dua-al-iftitah	Dua Al Iftitah
+dua-kumayl	Dua Kumayl
+dua-mashlool	Dua Mashlool
+dua-nudba	Dua Nudba
+dua-sabah	Dua Sabah
+sahifa-sajjadiya-abasing-himself-before-god	Sahifa Sajjadiya Abasing Himself Before God
+sahifa-sajjadiya-blessings-upon-gods-messenger	Sahifa Sajjadiya Blessings Upon Gods Messenger
+sahifa-sajjadiya-farewell-to-the-month-of-ramadan	Sahifa Sajjadiya Farewell To The Month Of Ramadan
+sahifa-sajjadiya-for-his-neighbours-and-friends	Sahifa Sajjadiya For His Neighbours And Friends
+sahifa-sajjadiya-for-the-coming-of-the-month-of-ramadan	Sahifa Sajjadiya For The Coming Of The Month Of Ramadan
+sahifa-sajjadiya-his-supplication-for-good-outcomes	Sahifa Sajjadiya His Supplication For Good Outcomes
+sahifa-sajjadiya-his-supplication-for-help-in-repaying-debts	Sahifa Sajjadiya His Supplication For Help In Repaying Debts
+sahifa-sajjadiya-his-supplication-for-himself-and-the-people-under-his-guardianship	Sahifa Sajjadiya His Supplication For Himself And The People Under His Guardianship
+sahifa-sajjadiya-his-supplication-for-his-children	Sahifa Sajjadiya His Supplication For His Children
+sahifa-sajjadiya-his-supplication-for-his-parents	Sahifa Sajjadiya His Supplication For His Parents
+sahifa-sajjadiya-his-supplication-for-the-people-of-the-frontiers	Sahifa Sajjadiya His Supplication For The People Of The Frontiers
+sahifa-sajjadiya-his-supplication-in-asking-for-covering-and-protection	Sahifa Sajjadiya His Supplication In Asking For Covering And Protection
+sahifa-sajjadiya-his-supplication-in-asking-for-the-best	Sahifa Sajjadiya His Supplication In Asking For The Best
+sahifa-sajjadiya-his-supplication-in-asking-for-water-during-a-drought	Sahifa Sajjadiya His Supplication In Asking For Water During A Drought
+sahifa-sajjadiya-his-supplication-in-confession-and-in-seeking-repentance-toward-god	Sahifa Sajjadiya His Supplication In Confession And In Seeking Repentance Toward God
+sahifa-sajjadiya-his-supplication-in-fear	Sahifa Sajjadiya His Supplication In Fear
+sahifa-sajjadiya-his-supplication-in-fleeing-to-god-for-protection	Sahifa Sajjadiya His Supplication In Fleeing To God For Protection
+sahifa-sajjadiya-his-supplication-in-giving-thanks	Sahifa Sajjadiya His Supplication In Giving Thanks
+sahifa-sajjadiya-his-supplication-in-hardship-effort-and-difficult-affairs	Sahifa Sajjadiya His Supplication In Hardship Effort And Difficult Affairs
+sahifa-sajjadiya-his-supplication-in-imploring-god	Sahifa Sajjadiya His Supplication In Imploring God
+sahifa-sajjadiya-his-supplication-in-seeking-needs-from-god	Sahifa Sajjadiya His Supplication In Seeking Needs From God
+sahifa-sajjadiya-his-supplication-in-seeking-pardon-and-mercy	Sahifa Sajjadiya His Supplication In Seeking Pardon And Mercy
+sahifa-sajjadiya-his-supplication-in-the-morning-and-evening	Sahifa Sajjadiya His Supplication In The Morning And Evening
+sahifa-sajjadiya-his-supplication-on-noble-moral-traits	Sahifa Sajjadiya His Supplication On Noble Moral Traits
+sahifa-sajjadiya-his-supplication-on-the-day-of-arafa	Sahifa Sajjadiya His Supplication On The Day Of Arafa
+sahifa-sajjadiya-his-supplication-on-the-day-of-sacrifice-and-on-friday	Sahifa Sajjadiya His Supplication On The Day Of Sacrifice And On Friday
+sahifa-sajjadiya-his-supplication-when-his-provision-was-stinted	Sahifa Sajjadiya His Supplication When His Provision Was Stinted
+sahifa-sajjadiya-his-supplication-when-sick	Sahifa Sajjadiya His Supplication When Sick
+sahifa-sajjadiya-in-asking-pardon	Sahifa Sajjadiya In Asking Pardon
+sahifa-sajjadiya-in-asking-release-from-sins-and-seeking-pardon	Sahifa Sajjadiya In Asking Release From Sins And Seeking Pardon
+sahifa-sajjadiya-in-calling-down-blessings-on-the-bearers-of-the-throne-and-every-angel-brought-near	Sahifa Sajjadiya In Calling Down Blessings On The Bearers Of The Throne And Every Angel Brought Near
+sahifa-sajjadiya-in-calling-down-blessings-upon-the-followers-of-and-the-attesters-to-the-messengers	Sahifa Sajjadiya In Calling Down Blessings Upon The Followers Of And The Attesters To The Messengers
+sahifa-sajjadiya-in-confessing-sins-after-finishing-the-night-prayer	Sahifa Sajjadiya In Confessing Sins After Finishing The Night Prayer
+sahifa-sajjadiya-in-mentioning-and-asking-for-repentance	Sahifa Sajjadiya In Mentioning And Asking For Repentance
+sahifa-sajjadiya-in-pleading-and-abasement	Sahifa Sajjadiya In Pleading And Abasement
+sahifa-sajjadiya-in-praise-of-god	Sahifa Sajjadiya In Praise Of God
+sahifa-sajjadiya-in-satisfaction-when-he-looked-upon-the-companions-of-this-world	Sahifa Sajjadiya In Satisfaction When He Looked Upon The Companions Of This World
+sahifa-sajjadiya-in-seeking-asylum-with-god	Sahifa Sajjadiya In Seeking Asylum With God
+sahifa-sajjadiya-in-yearning-to-ask-forgiveness-from-god	Sahifa Sajjadiya In Yearning To Ask Forgiveness From God
+sahifa-sajjadiya-on-the-day-of-fast-breaking-and-on-friday	Sahifa Sajjadiya On The Day Of Fast Breaking And On Friday
+sahifa-sajjadiya-removal-of-worries	Sahifa Sajjadiya Removal Of Worries
+sahifa-sajjadiya-repelling-the-trickery-of-enemies	Sahifa Sajjadiya Repelling The Trickery Of Enemies
+sahifa-sajjadiya-seeking-refuge-from-hateful-things	Sahifa Sajjadiya Seeking Refuge From Hateful Things
+sahifa-sajjadiya-the-supplication-for-friday	Sahifa Sajjadiya The Supplication For Friday
+sahifa-sajjadiya-the-supplication-for-monday	Sahifa Sajjadiya The Supplication For Monday
+sahifa-sajjadiya-the-supplication-for-saturday	Sahifa Sajjadiya The Supplication For Saturday
+sahifa-sajjadiya-the-supplication-for-sunday	Sahifa Sajjadiya The Supplication For Sunday
+sahifa-sajjadiya-the-supplication-for-thursday	Sahifa Sajjadiya The Supplication For Thursday
+sahifa-sajjadiya-the-supplication-for-tuesday	Sahifa Sajjadiya The Supplication For Tuesday
+sahifa-sajjadiya-the-supplication-for-wednesday	Sahifa Sajjadiya The Supplication For Wednesday
+sahifa-sajjadiya-upon-completing-a-reading-of-the-quran	Sahifa Sajjadiya Upon Completing A Reading Of The Quran
+sahifa-sajjadiya-when-faced-with-a-worrisome-task	Sahifa Sajjadiya When Faced With A Worrisome Task
+sahifa-sajjadiya-when-he-asked-god-for-well-being	Sahifa Sajjadiya When He Asked God For Well Being
+sahifa-sajjadiya-when-he-looked-at-the-new-crescent-moon	Sahifa Sajjadiya When He Looked At The New Crescent Moon
+sahifa-sajjadiya-when-he-mentioned-satan-and-sought-refuge-from-him	Sahifa Sajjadiya When He Mentioned Satan And Sought Refuge From Him
+sahifa-sajjadiya-when-he-remembered-death	Sahifa Sajjadiya When He Remembered Death
+sahifa-sajjadiya-when-he-saw-clouds-and-lightening-and-heard-the-thunder	Sahifa Sajjadiya When He Saw Clouds And Lightening And Heard The Thunder
+sahifa-sajjadiya-when-he-was-afflicted-or-saw-someone-afflicted-with-the-disgrace-of-sin	Sahifa Sajjadiya When He Was Afflicted Or Saw Someone Afflicted With The Disgrace Of Sin
+sahifa-sajjadiya-when-hostility-was-shown-to-him	Sahifa Sajjadiya When Hostility Was Shown To Him
+sahifa-sajjadiya-when-perils-were-repelled-or-requests-quickly-granted	Sahifa Sajjadiya When Perils Were Repelled Or Requests Quickly Granted
+sahifa-sajjadiya-when-something-made-him-sorrowful	Sahifa Sajjadiya When Something Made Him Sorrowful
+ziyarat-ashura	Ziyarat Ashura
+ziyarat-jamia-kabira	Ziyarat Jamia Kabira
+ziyarat-warith	Ziyarat Warith
+ziyrat-aale-yasin	Ziyrat Aale Yasin
